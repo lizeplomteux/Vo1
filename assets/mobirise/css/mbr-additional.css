@@ -1791,15 +1791,22 @@ body {
 }
 .cid-r60gYd8aN5 .testimonial-text {
   font-style: italic;
-  color: #676767;
+  color: #232323;
   font-weight: 300;
+  text-align: left;
 }
 .cid-r60gYd8aN5 .mbr-author-name {
   font-weight: bold;
-  color: #232;
+  color: #232323;
 }
 .cid-r60gYd8aN5 .mbr-author-desc {
   color: #232;
+}
+.cid-r60gYd8aN5 .testimonial-text B {
+  color: #0800ff;
+}
+.cid-r60gYd8aN5 .mbr-author-name SPAN {
+  color: #232323;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3009,7 +3016,7 @@ body {
   background: #efefef;
 }
 .cid-r60ht3oPSD {
-  padding-top: 90px;
+  padding-top: 105px;
   padding-bottom: 75px;
   background-color: #ffffff;
 }
@@ -3027,6 +3034,9 @@ body {
 .cid-r60ht3oPSD .card-img span {
   font-size: 72px;
   color: #707070;
+}
+.cid-r60ht3oPSD P {
+  color: #232323;
 }
 .cid-r5q1r8w9gA .navbar {
   padding: .5rem 0;
