@@ -4494,6 +4494,26 @@ body {
 .cid-r60cNsFVXj .dropdown-item:hover {
   color: #ffffff !important;
 }
+.cid-ra2EkqZjES {
+  background: #ffffff;
+}
+.cid-ra2EkqZjES .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-ra2EkqZjES figcaption {
+  position: relative;
+}
+.cid-ra2EkqZjES figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ra2EkqZjES .image-block {
+    width: 100% !important;
+  }
+}
 .cid-r60cLH7BYR .navbar {
   padding: .5rem 0;
   background: #f7ed4a;
