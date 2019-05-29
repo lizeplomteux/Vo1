@@ -1805,6 +1805,29 @@ body {
 .cid-r76XiRd8DB B {
   color: #ffffff;
 }
+.cid-rrR1yV61IY {
+  background: #ffffff;
+}
+.cid-rrR1yV61IY .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rrR1yV61IY .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rrR1yV61IY figcaption {
+  position: relative;
+}
+.cid-rrR1yV61IY figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rrR1yV61IY .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #f7ed4a;
